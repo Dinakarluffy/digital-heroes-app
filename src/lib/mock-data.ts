@@ -239,7 +239,7 @@ export const INITIAL_DRAWS: MonthlyDraw[] = [
 
 export const INITIAL_WINNERS: DrawWinner[] = [
   {
-    id: 'w1111111-1111-1111-1111-111111111111',
+    id: 'f1111111-1111-1111-1111-111111111111',
     draw_id: 'd1111111-1111-1111-1111-111111111111',
     user_id: 'b0000000-0000-0000-0000-000000000002',
     user_name: 'Sarah Jenkins',
@@ -255,7 +255,7 @@ export const INITIAL_WINNERS: DrawWinner[] = [
     created_at: '2026-08-31T20:05:00Z',
   },
   {
-    id: 'w2222222-2222-2222-2222-222222222222',
+    id: 'f2222222-2222-2222-2222-222222222222',
     draw_id: 'd1111111-1111-1111-1111-111111111111',
     user_id: 'b0000000-0000-0000-0000-000000000004',
     user_name: 'Elena Rostova',
